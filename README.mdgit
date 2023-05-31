@@ -1,0 +1,1 @@
+"# Es32"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Max33100/Es32git push -u origin main
